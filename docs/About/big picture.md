@@ -26,7 +26,7 @@ All three components are highly adjustable and manipulable, making the framework
 
 Commands are the backbone of the Rawen framework and can be created in various ways. Rawen offers three solutions for this:
 
-1. **SDK:** You can find the SDK [here](sdk-link) with a subset of functions to interact with and manipulate your instance.
+1. **SDK:** You can find the SDK [here](https://github.com/NexTechFusion/Rawen-command-maker) with a subset of functions to interact with and manipulate your instance.
 
 2. **Inbound IDE:** Each instance includes an inbound Integrated Development Environment (IDE) that allows you to create and test commands lazily. All SDK functions are also available there.
 
